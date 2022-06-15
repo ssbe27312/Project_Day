@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01_Logo.unity
+    guid: 803ed1332a2d87a4998dd3d482251b23
+  - enabled: 1
+    path: Assets/Scenes/02_Room_Main.unity
+    guid: e1e7214680d1fc74bbd0651ab11c942b
+  - enabled: 1
+    path: Assets/Scenes/03_Book_ERP_Game.unity
+    guid: 6ddb9bfa4639eb34bbadbe38e5b48668
+  - enabled: 1
+    path: Assets/Scenes/04_Day_Show_Recorded.unity
+    guid: 9d85c2e9348a43b44a3858eca146b759
+  - enabled: 1
+    path: Assets/Scenes/05_Lamp_SSVEP.unity
+    guid: bb55cea6b9cd09d469ad51383eaf136b
+  - enabled: 1
+    path: Assets/Scenes/06_Settings.unity
+    guid: 5af7763a86a4e054c87f54977058967f
+  - enabled: 1
+    path: Assets/Scenes/07_Studying.unity
+    guid: be379a133ad3a134390d1e6b9281cc08
+  - enabled: 1
+    path: Assets/Scenes/08_Window_Streaming.unity
+    guid: de843c64aae9bd749b31ac44dcc7f434
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: 526a54e3c00909945a6b1c556c700265
+  - enabled: 1
+    path: Assets/Scenes/10_Wise_Saying.unity
+    guid: df0d0fcc02b8ab540a1f5b4902282de5
+  - enabled: 1
+    path: Assets/Scenes/13_Go_Back.unity
+    guid: 64a36ea83419601448c1f82c96aa995c
+  - enabled: 1
+    path: Assets/Scenes/11_Book_ERP_Game.unity
+    guid: 80f23c38daff42849be09f5515e4a495
+  - enabled: 1
+    path: Assets/Scenes/12_Book_ERP_Game.unity
+    guid: 33bdf2610460b62439a49992c4033259
+  - enabled: 1
+    path: Assets/Scenes/14_Purpose_Saying.unity
+    guid: da6c021107df7b84da83acc23d392937
+  - enabled: 1
+    path: Assets/Scenes/09_Recording.unity
+    guid: 88fafa7aea825d646863fe940ab63a7d
+  - enabled: 1
+    path: Assets/Scenes/15_Restart_OR_Studying.unity
+    guid: bc98aec1effec0f4da8659725479bd36
+  - enabled: 1
+    path: Assets/Scenes/16_Book_ERP_Game.unity
+    guid: bc62cdb198bd0d14aa7c1538f2fa38c8
+  - enabled: 1
+    path: Assets/Scenes/17_Book_ERP_Game.unity
+    guid: f968965c9e678db40807c333716b5896
+  - enabled: 1
+    path: Assets/Scenes/18_Recording.unity
+    guid: 14e627d2af8f8794899e931254fc454e
+  - enabled: 1
+    path: Assets/Scenes/19_Success_beta.unity
+    guid: e5f47a94d1f93ae409b68cf63dc96480
+  - enabled: 1
+    path: Assets/Scenes/20_Select_Game_Or_Studying.unity
+    guid: 478bfd401f402b64cb00288357b61921
+  - enabled: 1
+    path: Assets/Scenes/21_If_failed.unity
+    guid: ef37170bd95fb6646b54220dec73e690
+  m_configObjects: {}

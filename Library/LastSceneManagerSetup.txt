@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/21_If_failed.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
